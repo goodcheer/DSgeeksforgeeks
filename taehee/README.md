@@ -14,3 +14,9 @@
         - find max of i*arr[i] with rotation
         - find rotation count
         - find given times rotation applied
+        - find maximum of hamming distance of array with rotation operator
+        - get array after right rotation applied k-times
+        - find element at a given index after interval right rotations applied v1
+        - find element at a given index after interval right rotations applied v2
+        - find minimum element on rotated sorted array
+        - query output which consist of right/left rotation and summing
